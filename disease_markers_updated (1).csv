@@ -1,0 +1,16 @@
+disease,marker,position
+Coronary Artery Disease,AGGCTAAG,10
+Hypertrophic Cardiomyopathy,GATCGTGA,25
+Arrhythmia Syndrome,TTGACGGA,40
+Sickle Cell Anemia,CTGACTC,55
+Thalassemia,GGTAACTG,70
+Type 2 Diabetes,CGTGGCTA,85
+Obesity Variant,ATCGGATC,100
+Alzheimer's Disease,TACCGGAT,115
+Parkinson's Disease,GGATACCG,130
+Huntington-like Disorder,CAGCAGCAG,145
+Breast Cancer,ATGCCGTA,160
+Lung Cancer,CGTAGGCA,170
+Colorectal Cancer,TTACGGCA,180
+Autoimmune Variant,GACTTGCA,50
+Rare Genetic Syndrome,ACGTACGT,5
